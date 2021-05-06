@@ -11,7 +11,7 @@ import com.devsuperior.dsvendas.entities.Seller;
 import com.devsuperior.dsvendas.repositories.SellerRepository;
 
 @Service
-public class sellerService {
+public class SellerService {
 	
 	@Autowired
 	private SellerRepository repository;
